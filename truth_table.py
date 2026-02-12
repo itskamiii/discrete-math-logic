@@ -1,6 +1,6 @@
 def generate_truth_table():
     print(f"{'P':<6} | {'Q':<6} | {'P AND Q':<10} | {'P OR Q':<10} | {'P -> Q':<10}")
-    print("-" * 55) # head for dm study tool
+    print("-" * 55) # header for dm study tool
 
     #boolean combinations for p and q
     #dm tests every possible t or f pair
